@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+.ipynb_checkpoints/
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Env files
+.env
+.env.*
+
+# Caches
+.cache/
+.mypy_cache/
+.pytest_cache/
+ 
+# Project generator prompts
+folder_generation_prompt.txt
+
+# Helper files
+generate_file_structure.py
+structure.txt
