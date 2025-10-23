@@ -11,6 +11,10 @@ Legend: ✅ Done | 🔄 WIP | 🧪 Testing | ⏳ Planned | ❌ Blocked
 | Agent Planning & Execution | 🔄 WIP | Initial planner agent stub | 22-Oct-2025 |
 | Integrating External APIs | ⏳ Planned | TBD | 22-Oct-2025 |
 | Advanced Pipelines | ⏳ Planned | TBD | 22-Oct-2025 |
+| Autonomicity Levels Notes | ✅ Done | Added 01_autonomicity_levels.md | 23-Oct-2025 |
+| Routing Experiment | ⏳ Planned | Router dispatch to sub-graphs | 23-Oct-2025 |
+| State Machines Experiment | ⏳ Planned | Reviewer loop + termination guard | 23-Oct-2025 |
+| Comparison Update | 🔄 WIP | Autonomicity, routing, state machines section | 23-Oct-2025 |
 
 Tips
 - Keep rows short; add detail in experiment READMEs or notes.
